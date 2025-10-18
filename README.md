@@ -13,7 +13,7 @@ This project developed a machine learning model to predict food delivery times, 
 
 **📈 Model & Performance:**
 - **Model Used :** Linear Regression 
-- **Evaluation Metrics : ** R^2 Score 
+- **Evaluation Metrics :** R^2 Score 
 - **Test Set Accuracy :** 0.8415 
 
 The final $R^2$ score of 0.8415 indicates that the model explains over 84% of the variability in food delivery time. 
